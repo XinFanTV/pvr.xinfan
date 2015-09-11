@@ -1,0 +1,2 @@
+/home/xbmc/git/pvr.xinfan2/CMakeFiles/addon-package.dir
+/home/xbmc/git/pvr.xinfan2/CMakeFiles/pvr.xinfan.dir

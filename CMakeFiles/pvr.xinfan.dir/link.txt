@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=gnu++11   -shared -Wl,-soname,pvr.xinfan.so.15.2 -o pvr.xinfan.so.1.10.7 CMakeFiles/pvr.xinfan.dir/src/client.cpp.o CMakeFiles/pvr.xinfan.dir/src/PVRXinFanData.cpp.o -L/usr//usr/lib64 -lkodiplatform -lpthread -ltinyxml -L/usr/local/lib -lplatform -lpthread -ltinyxml 
