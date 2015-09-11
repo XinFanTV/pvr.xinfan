@@ -1,7 +1,4 @@
-# Demo PVR
-Demo PVR client addon for [Kodi] (http://kodi.tv)
+# XinFan.TV PVR
+XinFan.TV (http://www.xinfan.tv) PVR client addon for [Kodi] (http://kodi.tv)
 
-##### Useful links
-
-* [Kodi's PVR user support] (http://forum.kodi.tv/forumdisplay.php?fid=167)
-* [Kodi's PVR development support] (http://forum.kodi.tv/forumdisplay.php?fid=136)
+Video, Music ,Radio and Live TV etc.
